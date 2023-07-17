@@ -1,0 +1,32 @@
+{
+    "name": "deep.gl",
+    "description": "Neurons for your Browser",
+    "author": "Geoid",
+    "license": "Apache-2.0",
+    "version": "0.0.1",
+    "keywords": [
+        "geoid",
+        "deepgl",
+        "webgl",
+        "ai",
+        "artificial intelligence",
+        "ann",
+        "artificial neural networks",
+        "ml",
+        "machine learning",
+        "deep learning",
+        "number theory",
+        "statistics"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/geoid-org/deep.gl.git"
+    },
+    "scripts": {
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "typescript": "^5.1.6"
+    }
+}
+  
