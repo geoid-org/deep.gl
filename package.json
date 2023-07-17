@@ -18,15 +18,23 @@
         "number theory",
         "statistics"
     ],
+    "homepage": "https://grid.gl",
     "repository": {
         "type": "git",
-        "url": "https://github.com/geoid-org/deep.gl.git"
+        "url": "https://github.com/geoid-org/grid.gl.git"
     },
+    "bugs": {
+        "url": "https://github.com/geoid-org/grid.gl/issues"
+    },
+    "main": "index.js",
     "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {},
     "devDependencies": {
         "typescript": "^5.1.6"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
-  
