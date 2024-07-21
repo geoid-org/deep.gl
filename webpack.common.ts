@@ -1,9 +1,9 @@
 // webpack.common.ts
 
 // import webpack from 'webpack';
-import paths from './webpack.paths';
+// import paths from './webpack.paths';
 // import CopyWebpackPlugin from 'copy-webpack-plugin';
-import HtmlWebpackPlugin from 'html-webpack-plugin';
+// import HtmlWebpackPlugin from 'html-webpack-plugin';
 // import { CleanWebpackPlugin } from 'clean-webpack-plugin';
 
 
@@ -45,8 +45,6 @@ const configCommon: any = {
             },
         ],
     },
-
-
 
 
     // output: {
