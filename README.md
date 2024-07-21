@@ -1,6 +1,5 @@
 # deep.gl
 
-
 ## Introduction
 
 Deep.gl is a cutting-edge deep learning and visualization library meticulously written in TypeScript. This powerful tool aims to bridge the gap between complex machine learning algorithms and intuitive data visualizations, enabling data scientists, machine learning practitioners, and web developers to seamlessly incorporate deep learning models into their projects while simultaneously interpreting and presenting the generated insights in a comprehensive, visually appealing manner.
