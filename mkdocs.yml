@@ -99,7 +99,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: G-1RGH6K680C
+    property: G-W038R1J5BF
   social:
     - icon: fontawesome/solid/globe 
       link: https://www.geoid.org
