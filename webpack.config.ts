@@ -15,7 +15,3 @@ const config = (env: any, args: { mode: any; }) => {
 }
 
 export default config
-
-
-
-
